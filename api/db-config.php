@@ -1,9 +1,9 @@
 <?php
 // Database configuration
-define('DB_HOST', 'database-5017946406.webspace-host.com');
-define('DB_USER', 'dbu1482305');
-define('DB_PASS', 'Sven20071!');
-define('DB_NAME', 'dbs14280044');
+define('DB_HOST', '-5017946406.webspace-host.com');
+define('DB_USER', '');
+define('DB_PASS', '');
+define('DB_NAME', '');
 
 // Removed CORS headers and Content-Type from here, auth.php will handle them
 
